@@ -41,7 +41,7 @@ Be safe and do not download this elsewhere, this is a 1:1 copy of what Microsoft
 ✅File Version: 16.4.3528.0331<br>
 ✅Date signed: 2014-04-07 11:09:00 UTC
 
-## Agreement:
+## Agreement
 THE SOFTWARE IS PROVIDED “AS IT IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 2014 Official Website Screenshots
