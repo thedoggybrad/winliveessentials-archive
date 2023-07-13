@@ -4,7 +4,7 @@
 This is an archive of the original final release of Windows Live Essentials 2012 in April 2014. It is 100% unmodified and authentic.<br><br>
 
 ## Transparencies
-Formerly Located on (Official Microsoft URL):<br>
+Formerly Located on (Now Dead, Official Microsoft URL):<br>
 [http://g.live.com/1rewlive5-all/en/wlsetup-all.exe](http://g.live.com/1rewlive5-all/en/wlsetup-all.exe)
 <br><br>
 Archive.org's WayBackMachine Location:<br>
