@@ -21,7 +21,7 @@ Note: This is the URL where this uploaded archive of the software comes from. It
 ## Download Link
 The only download link from this archive repository.<br>
 [https://github.com/thedoggybrad/winliveessentials-archive/releases/download/16.4.3528.331/wlsetup-all.exe](https://github.com/thedoggybrad/winliveessentials-archive/releases/download/16.4.3528.331/wlsetup-all.exe)
-<br><br>
+<br>
 Be safe and do not download this elsewhere, this is a 1:1 copy of what Microsoft provided in April 2014.
 
 ## VirusTotal results
