@@ -46,7 +46,7 @@ Be safe and do not download this elsewhere, this is a 1:1 copy of what Microsoft
 THE SOFTWARE IS PROVIDED “AS IT IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 2014 Official Website Screenshots
-A view of the great past! Thanks to WayBackMachine of archive.org for providing the screenshots.<br><br>
+Are you from the future? View the great past on this screenshots! Thanks to WayBackMachine of archive.org for providing the screenshots.<br><br>
 ![2014www](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/faa3ac90-9693-4445-90f6-272ff3839a4a)<br>
 ![photogallery](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/bc25e55b-bea6-4ebc-af85-bf6e7452551a)<br>
 ![moviemaker](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/66e73ca6-006a-4654-b62d-2cbfca5eba5b)<br>
