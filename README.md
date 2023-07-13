@@ -1,2 +1,40 @@
 # Windows Live Essentials (Archive)
-An archive of the original Windows Live Essentials from 2014. Sourced from the WayBackMachine by Archive.org.
+This is an archive of the original final release of Windows Live Essentials 2012 in April 2014. It is 100% unmodified and authentic.
+
+## Transparencies
+Formerly Located on (Official Microsoft URL):<br>
+http://g.live.com/1rewlive5-all/en/wlsetup-all.exe
+<br><br>
+Archive.org's WayBackMachine Location:<br>
+https://web.archive.org/web/20140629061704/http://g.live.com/1rewlive5-all/en/wlsetup-all.exe
+<br>
+Note: This is the URL where this uploaded archive of the software comes from. It is much slower, so I created this archive repository.
+
+## Windows Essentials 2012 includes
+✅Windows Movie Maker
+✅Windows Photo Gallery
+✅Windows Live Writer
+✅Windows Live Mail
+✅Windows Live Family Safety
+✅OneDrive desktop app for Windows
+
+## Download Link
+The only download link from this archive repository.<br>
+[https://github.com/thedoggybrad/winliveessentials-archive/releases/download/16.4.3528.331/wlsetup-all.exe](https://github.com/thedoggybrad/winliveessentials-archive/releases/download/16.4.3528.331/wlsetup-all.exe)
+<br><br>
+Be safe and do not download this elsewhere, this is a 1:1 copy of what Microsoft provided in April 2014.
+
+## VirusTotal results
+[https://www.virustotal.com/gui/file/072424c82f942f2b43b68b9154e1f3e0c61b7ee39a08372048ed34e09bd2554a/detection](https://www.virustotal.com/gui/file/072424c82f942f2b43b68b9154e1f3e0c61b7ee39a08372048ed34e09bd2554a/detection)
+
+## File Version Information
+✅Copyright© Microsoft Corporation. All rights reserved.<br>
+✅Product: Windows Essentials<br>
+✅Description: Windows Essentials Installer<br>
+✅Original Name : wlsetup.exe<br>
+✅Internal Name: wlsetup<br>
+✅File Version: 16.4.3528.0331<br>
+✅Date signed: 2014-04-07 11:09:00 UTC
+
+## Agreement:
+THE SOFTWARE IS PROVIDED “AS IT IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
