@@ -46,5 +46,15 @@ Be safe and do not download this elsewhere, this is a 1:1 copy of what Microsoft
 THE SOFTWARE IS PROVIDED “AS IT IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 2014 Official Website Screenshots
-Thanks to WayBackMachine of archive.org for providing the screenshots.<br><br>
-![2014www](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/faa3ac90-9693-4445-90f6-272ff3839a4a)
+A view of the great past! Thanks to WayBackMachine of archive.org for providing the screenshots.<br><br>
+![2014www](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/faa3ac90-9693-4445-90f6-272ff3839a4a)<br>
+![photogallery](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/bc25e55b-bea6-4ebc-af85-bf6e7452551a)<br>
+![moviemaker](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/66e73ca6-006a-4654-b62d-2cbfca5eba5b)<br>
+![livewriter1](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/ae8f4640-61f5-40a2-ab81-6c7269d1d811)<br>
+![livewriter2](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/07eb6fc1-4c5c-4eaf-9a43-b272579f467f)<br>
+![livewriter3](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/ea1b589d-de92-4745-8824-ae316cf43336)<br>
+![onedrive1](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/465a8e53-d452-4391-bfb6-ed0a7b0c0f7b)<br>
+![onedrive2](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/2b928a2b-07b9-44d5-b738-12c53c6d900a)<br>
+![onedrive3](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/40c685c5-3744-462b-b619-9812e82657ef)<br>
+![onedrive4](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/401e487c-6fcd-4195-a892-6a78529cf3ed)<br>
+![onedrive5](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/28d19b8f-d4fe-4351-9941-6137bca7c20a)
