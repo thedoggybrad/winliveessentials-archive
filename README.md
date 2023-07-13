@@ -10,6 +10,9 @@ https://web.archive.org/web/20140629061704/http://g.live.com/1rewlive5-all/en/wl
 <br>
 Note: This is the URL where this uploaded archive of the software comes from. It is much slower, so I created this archive repository.
 
+## Important
+This is a discontinued, unsupported software provided by Microsoft. It is not recommended to use this software and only provided here for archival purposes.
+
 ## Windows Essentials 2012 includes
 ✅Windows Movie Maker<br>
 ✅Windows Photo Gallery<br>
