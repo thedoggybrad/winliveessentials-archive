@@ -1,3 +1,5 @@
+<img src="logo.webp" alt="LOGO" width="64"  height="64">
+
 # Windows Live Essentials (Archive)
 This is an archive of the original final release of Windows Live Essentials 2012 in April 2014. It is 100% unmodified and authentic.
 
