@@ -11,12 +11,12 @@ https://web.archive.org/web/20140629061704/http://g.live.com/1rewlive5-all/en/wl
 Note: This is the URL where this uploaded archive of the software comes from. It is much slower, so I created this archive repository.
 
 ## Windows Essentials 2012 includes
-✅Windows Movie Maker
-✅Windows Photo Gallery
-✅Windows Live Writer
-✅Windows Live Mail
-✅Windows Live Family Safety
-✅OneDrive desktop app for Windows
+✅Windows Movie Maker<br>
+✅Windows Photo Gallery<br>
+✅Windows Live Writer<br>
+✅Windows Live Mail<br>
+✅Windows Live Family Safety<br>
+✅OneDrive desktop app for Windows<br>
 
 ## Download Link
 The only download link from this archive repository.<br>
