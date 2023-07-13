@@ -47,12 +47,4 @@ THE SOFTWARE IS PROVIDED “AS IT IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS O
 
 ## 2014 Official Website Screenshots
 Are you from the future? View the great past on this screenshots! Thanks to WayBackMachine of archive.org for providing the screenshots.<br><br>
-
-### Main Page, Windows Movie Maker and Photo Gallery
-![all](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/129eaea4-c603-45db-ad73-4677e5905d88)
-
-### Windows Live Writer
-![livewriter](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/eec89f56-e646-4dbb-8a94-99edc2b39d7d)
-
-### OneDrive (Formerly SkyDrive)
-![onedrive](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/d4874539-b7d2-45fc-828c-98f57310924f)
+![2014websites](https://github.com/thedoggybrad/winliveessentials-archive/assets/94173621/98c4f4b7-a826-4aa8-8509-550b68f57b4d)
